@@ -24,7 +24,7 @@
   },
   "pre-commit": {
     "slient": true,
-    "run": ["eslint"]
+    "run": ["lint"]
   },
   "postcss": {
     "plugins": {
